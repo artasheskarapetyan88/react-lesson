@@ -1,0 +1,31 @@
+.friends img {
+  width: 30px;
+}
+
+.friends {
+  margin-top: 100px;
+}
+.tagFriend {
+  color: chocolate;
+  font-size: 50px;
+}
+
+.frElement {
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.frElement a {
+  text-decoration: none;
+  color: chocolate;
+}
+.frTextType {
+  text-decoration: none;
+  color: chocolate;
+}
+
+.friendWrapper {
+  padding: 10px;
+}

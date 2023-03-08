@@ -1,0 +1,18 @@
+.header {
+  grid-area: h;
+  background-color: crimson;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.header img {
+  width: 30px;
+  margin-left: 12px;
+}
+
+.logout {
+  cursor: pointer;
+  color: white;
+  margin-right: 12px;
+}
